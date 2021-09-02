@@ -18,7 +18,7 @@ I am completely passionate about frontend development, and also very interested 
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"></code>
 
 - 💬 Ask me about programming in general, I am always <br> available to help and learn together.
-
+- ❤️ Interesting : Front End Development, Machine Learning , Android Developer
 
 
 
