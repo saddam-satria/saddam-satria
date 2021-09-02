@@ -8,7 +8,7 @@
 My name is **Saddam Satria**, I'm 20 years old and I'm a student of **Information System** at UBSI University in Indonesia.
 I am completely passionate about frontend development, and also very interested in data analysis. I love watching to anime and netflix movie 
 
-<img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
+<img align= "right" width= "240" src= "https://i.pinimg.com/originals/a1/77/df/a177dfc84703c31afa0d501ccf43fe4f.gif"/>
 
 
 - 🌱 I’m currently learning <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
