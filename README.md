@@ -5,7 +5,7 @@
 
 
 My name is **Saddam Satria**, I'm 20 years old and I'm a student of **Information System** at UBSI University in Indonesia.
-I am completely passionate about frontend development, and also very interested in data analysis. I love watching anime and netflix movie 
+I am completely passionate about frontend development, and also very interested in data analysis & Back End. I love watching anime and netflix movie 
 
 <img align= "right" width= "240" src= "https://obs.line-scdn.net/0hEKaMFjDTGmRcNAzA0udlM2ZiGQtvWAlnOAJLegxaRFNwVl87YltQUn9nEwchBl06MgFdA34yAVUkUwpiMFRQ/w580"/>
 
@@ -21,7 +21,7 @@ I am completely passionate about frontend development, and also very interested 
 
 
 - 💬 Ask me about programming in general, I am always <br> available to help and learn together.
-- ❤️ Interesting : Front End Development, Machine Learning , Android Developer
+- ❤️ Interesting : Front End Development, Back End, Android Developer
 -    React Projects 
 
 * https://saddam-gallery.netlify.app
