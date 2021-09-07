@@ -7,7 +7,7 @@
 My name is **Saddam Satria**, I'm 20 years old and I'm a student of **Information System** at UBSI University in Indonesia.
 I am completely passionate about frontend development, and also very interested in data analysis & Back End. I love watching anime and netflix movie 
 
-<img src= "https://img.wattpad.com/defc27cd1b11e2f1ac7a285df88c37b8b04ecf94/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f742d585856725553615f656d35773d3d2d313038373130363436352e313638616364393834666631616262353632363436363836363439312e676966"/>
+<img src= "https://c.tenor.com/wBuCcRT5EP0AAAAC/rem-smile.gif61642d6d656469612d736572766963652f53746f7279496d6167652f742d585856725553615f656d35773d3d2d313038373130363436352e313638616364393834666631616262353632363436363836363439312e676966"/>
 
  ### Front End
  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
