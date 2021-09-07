@@ -23,7 +23,10 @@ I am completely passionate about frontend development, and also very interested 
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
 <code><img height="40" src="https://sekolahlinux.com/wp-content/uploads/2016/04/0B33Jt3ad_zj9YlR6RDhtdjFyVDQ.png"></code>
 
-
+### Tools 
+<code><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThbDSylIf9McRUKgXbvitPzKh9iORol6hX2g&usqp=CAU"></code>
+<code><img height="40" src="https://cdn.freelogovectors.net/wp-content/uploads/2020/12/postman-logo.png"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
 
 
 - 💬 Ask me about programming in general, I am always <br> available to help and learn together.
