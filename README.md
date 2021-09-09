@@ -33,9 +33,4 @@ I am completely passionate about frontend development, and also very interested 
 - ❤️ Interesting : Front End Development, Back End, Android Developer
 #
 
--    React Projects 
-* https://saddam-gallery.netlify.app
-*  https://saddam-quran.netlify.app
-*  https://saddam-wildfire-tracker.netlify.app
-*  https://saddam-covid-tracker.netlify.app
-*  https://saddam-satria.netlify.app
+
