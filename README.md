@@ -28,9 +28,11 @@ I am completely passionate about frontend development, and also very interested 
 <code><img height="40" src="https://cdn.freelogovectors.net/wp-content/uploads/2020/12/postman-logo.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
 
+<code><img height="120" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=saddam-satria&layout=compact&show_icons=true&theme=default&hide_b"></code>
+<code><img height="120" src="https://github-readme-stats.vercel.app/api?username=saddam-satria&layout=compact&show_icons=true&theme=default&hide_border=true"></code>
 
+
+#
 - 💬 Ask me about programming in general, I am always <br> available to help and learn together.
 - ❤️ Interesting : Front End Development, Back End, Android Developer
-#
-
 
