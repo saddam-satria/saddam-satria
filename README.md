@@ -18,7 +18,7 @@ I am completely passionate about frontend development, and also very interested 
 ### Back End
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
-<code><img height="40" src="https://images.ctfassets.net/23aumh6u8s0i/3StIC3FCZtbY5rLBGi9a6o/bb282ccfdf1faf2faf9986717d63b27e/laravel-6-logo"></code>
+
 
 ### Database
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
