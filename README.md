@@ -37,5 +37,5 @@ I am completely passionate about frontend development, and also very interested 
 
 #
 - 💬 Ask me about programming in general, I am always <br> available to help and learn together.
-- ❤️ Interesting : Front End Development, Back End, Android Developer
+- ❤️ Interesting : Front End Development, Back End Development,  Android Development
 
