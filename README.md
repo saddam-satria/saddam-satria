@@ -15,11 +15,15 @@ I am completely passionate about Frontend Environment, interested in Data Analys
 <code><img height="40" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Android_icon-icons.com_66772.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"></code>
 <code><img height="40" src="https://www.creative-tim.com/assets/frameworks/icon-nextjs-552cecd0240ba0ae7b5fbf899c1ee10cd66f8c38ea6fe77233fd37ad1cff0dca.png"></code>
-<code><img height="30" width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6gXIWGddX1tpDH-IuWTdiYFNkMywjf5QXDA&usqp=CAU"></code>
+<code><img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6gXIWGddX1tpDH-IuWTdiYFNkMywjf5QXDA&usqp=CAU"></code>
+<code><img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdsiAE1Vc0SkKWKE3sRB5cBru-mKDZBFAiPw&usqp=CAU"></code>
+
+
 
 ### Back End
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png"></code>
 
 
 ### Database
@@ -30,6 +34,10 @@ I am completely passionate about Frontend Environment, interested in Data Analys
 <code><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThbDSylIf9McRUKgXbvitPzKh9iORol6hX2g&usqp=CAU"></code>
 <code><img height="40" src="https://cdn.freelogovectors.net/wp-content/uploads/2020/12/postman-logo.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
+<code><img height="40" width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNoZ3Zn0MMr9pxWQ4I-82El1TT2o1P9qii-g&usqp=CAU "></code>
+<code><img height="40"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa_kCTcqGHH-fAvVuUIZO2gwXultgP44kUHQ&usqp=CAU"></code>
+
+
 
 <code><img height="120" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=saddam-satria&layout=compact&show_icons=true&theme=default&hide_b"></code>
 <code><img height="120" src="https://github-readme-stats.vercel.app/api?username=saddam-satria&layout=compact&show_icons=true&theme=default&hide_border=true"></code>
