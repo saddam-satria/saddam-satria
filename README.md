@@ -34,7 +34,6 @@ I am completely passionate about Frontend Environment, interested in Data Analys
 <code><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThbDSylIf9McRUKgXbvitPzKh9iORol6hX2g&usqp=CAU"></code>
 <code><img height="40" src="https://cdn.freelogovectors.net/wp-content/uploads/2020/12/postman-logo.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
-<code><img height="40" width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNoZ3Zn0MMr9pxWQ4I-82El1TT2o1P9qii-g&usqp=CAU "></code>
 <code><img height="40"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa_kCTcqGHH-fAvVuUIZO2gwXultgP44kUHQ&usqp=CAU"></code>
 
 
