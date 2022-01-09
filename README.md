@@ -46,5 +46,5 @@ I am completely passionate about Frontend Environment,Data Analyst, and also Bac
 
 #
 - 💬 Ask me about programming in general, I am always <br> available to help and learn together.
-- ❤️ Interesting : Front End Development, Back End Development,  Android Development
+- ❤️ Interesting : Front End Development, Back End Development
 
