@@ -6,7 +6,7 @@
 
 My name is **Saddam Satria**, I'm 20 years old student of **Information System** at UBSI University in Indonesia.
 I am completely passionate about Data Analyst, and FullStack, I like either. Currently, focused on PHP framework made a web apps, experiment with graphql and node typescript,
-It was fun to learned newest tech stack, perhaps I'll more study web 3.0 in the next. If you have more questions, call me asap, I'd like to share knowledge to everyone who ask, so contact me immediately, don't worry it's free. 
+It was fun to learned newest tech stack, perhaps I'll more study web 3.0 in the next. If you have more questions, call me asap, I'd like to share knowledge to everyone who ask,contact me immediately, don't worry it's free. 
 Self interested on movie, series, and anime.
 
 <img src= "https://i.pinimg.com/originals/3d/f0/bf/3df0bf305487fbfca17639acc181efab.gif"/>
