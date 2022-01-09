@@ -4,20 +4,19 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:karier.saddamsatria@gmail.com)
 
 
-My name is **Saddam Satria**, I'm 20 years old and I'm a student of **Information System** at UBSI University in Indonesia.
-I am completely passionate about Frontend Environment,Data Analyst, and also Back End Environment. I love watching anime and movie 
+My name is **Saddam Satria**, I'm 20 years old student of **Information System** at UBSI University in Indonesia.
+I am completely passionate about Data Analyst, and FullStack, I like either. Currently, focused on PHP framework made a web apps, experiment with graphql and node typescript,
+It was fun to learned newest tech stack, perhaps I'll more study web 3.0 in the next. If you have more questions, call me asap, I'd like to share knowledge to everyone who ask, so contact me immediately, don't worry it's free. 
+Self interested on movie, series, and anime.
 
 <img src= "https://i.pinimg.com/originals/3d/f0/bf/3df0bf305487fbfca17639acc181efab.gif"/>
 
  ### Front End
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="40" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Android_icon-icons.com_66772.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"></code>
 <code><img height="40" src="https://www.creative-tim.com/assets/frameworks/icon-nextjs-552cecd0240ba0ae7b5fbf899c1ee10cd66f8c38ea6fe77233fd37ad1cff0dca.png"></code>
 <code><img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6gXIWGddX1tpDH-IuWTdiYFNkMywjf5QXDA&usqp=CAU"></code>
-
-
 
 
 ### Back End
