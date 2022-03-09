@@ -4,8 +4,8 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:karier.saddamsatria@gmail.com)
 
 
-I am Saddam Satria Ardhi, call me Saddam, I am 20 years old, currently, study at university of Bina Sarana Informatika (BSI) as a information system student.
-I am completely passionate about coding, what I've studied for 2 years time  
+I am Saddam Satria Ardhi, you could call me Saddam, I am 20 years old, currently studying at university of Bina Sarana Informatika (BSI) as a information system student.
+I am completely passionate about Tech Stack, I've studied programming field for 2 years. My first language was python, I Learned python for data science, machine learning, deep learning, on six months I stopped learn python and data science field when I realize data science needs more mathematics, I jumped to website development started from front end development, I started from javascript basic to react framework while create small projects, I called it as experiment projects. At now, I'm still studying website development in back end field such as web service API and graphql with typescript as a core language. During I learn programming I joined few courses and got certificates, the courses that I learn are the same related field as I studied. In my spare time I watch movies and animes
 
 <img src= "https://i.pinimg.com/originals/3d/f0/bf/3df0bf305487fbfca17639acc181efab.gif"/>
 
