@@ -4,40 +4,39 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:karier.saddamsatria@gmail.com)
 
 
-My name is **Saddam Satria**, I'm 20 years old student of **Information System** at UBSI University in Indonesia.
-I am completely passionate about Data Analyst and FullStack, I like either. Currently, focused on PHP framework made a web apps, experiment with graphql and node typescript,
-It was fun to learned newest tech stack, I'll might more study web 3.0 and Microservices in the next. If you have more questions, call me asap, I'd like to share knowledge to everyone who ask,contact me immediately, don't worry it's free. 
-Self interest on movie, series, and anime.
+I am Saddam Satria Ardhi, call me Saddam, I am 20 years old, currently, study at university of Bina Sarana Informatika (BSI) as a information system student.
+I am completely passionate about coding, what I've studied for 2 years time  
 
 <img src= "https://i.pinimg.com/originals/3d/f0/bf/3df0bf305487fbfca17639acc181efab.gif"/>
 
  ### Front End
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"></code>
-<code><img height="40" src="https://www.creative-tim.com/assets/frameworks/icon-nextjs-552cecd0240ba0ae7b5fbf899c1ee10cd66f8c38ea6fe77233fd37ad1cff0dca.png"></code>
-<code><img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6gXIWGddX1tpDH-IuWTdiYFNkMywjf5QXDA&usqp=CAU"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="60" src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"></code>
+<code><img height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/768px-Tailwind_CSS_Logo.svg.png"></code>
+<code><img height="60" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/288_Sass-512.png"></code>
 
 
 ### Back End
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png"></code>
-<code><img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdsiAE1Vc0SkKWKE3sRB5cBru-mKDZBFAiPw&usqp=CAU"></code>
-<code><img height="40" src="https://graphql.org/img/og-image.png"></code>
-
+<code><img height="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
+<code><img height="64" src="https://spyna.it/images/graphql.png"></code>
+<code><img height="70" src="https://2.bp.blogspot.com/-bGTsFydT5d8/WM-Gs0K0FTI/AAAAAAAAFpM/AGJ-DWijk785bQjk9FF99PpcySIrtWHIgCPcB/s1600/laravel_logo.png"></code>
+<code><img height="70" src="https://miro.medium.com/max/724/1*qHErF6dRKxFCDTtgpQk9hQ.png"></code>
 
 ### Database
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
-<code><img height="40" src="https://sekolahlinux.com/wp-content/uploads/2016/04/0B33Jt3ad_zj9YlR6RDhtdjFyVDQ.png"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
+<code><img height="70" src="https://sekolahlinux.com/wp-content/uploads/2016/04/0B33Jt3ad_zj9YlR6RDhtdjFyVDQ.png"></code>
 
 ### Tools 
-<code><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThbDSylIf9McRUKgXbvitPzKh9iORol6hX2g&usqp=CAU"></code>
-<code><img height="40" src="https://cdn.freelogovectors.net/wp-content/uploads/2020/12/postman-logo.png"></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
-<code><img height="40"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa_kCTcqGHH-fAvVuUIZO2gwXultgP44kUHQ&usqp=CAU"></code>
+<code><img height="60" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
+<code><img height="60" src="https://ph-files.imgix.net/3f458a19-f754-4e09-8aa5-351c3a45dc38.png?auto=format"></code>
 
 
+### Languages
+<code><img height="55" src="https://hand-picked.io/wp-content/uploads/2019/05/logo_python2.png"></code>
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png"></code>
+<code><img height="55" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="55" src="https://cdn.iconscout.com/icon/free/png-256/typescript-1174965.png"></code>
 
 <code><img height="120" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=saddam-satria&layout=compact&show_icons=true&theme=default&hide_b"></code>
 <code><img height="120" src="https://github-readme-stats.vercel.app/api?username=saddam-satria&layout=compact&show_icons=true&theme=default&hide_border=true"></code>
