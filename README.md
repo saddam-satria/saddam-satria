@@ -43,7 +43,7 @@ I am completely passionate about Tech Stack, I've studied programming field for 
 <code><img height="55" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="55" src="https://cdn.iconscout.com/icon/free/png-256/typescript-1174965.png"></code>
 
-<code><img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saddam-satria&exclude_repo=school-system,finalproject-daspro,demo_1"></code>
+<code><img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saddam-satria&exclude_repo=demo_1&hide=html,css,blade"></code>
 <code><img height="120" src="https://github-readme-stats.vercel.app/api?username=saddam-satria&layout=compact&show_icons=true&theme=default&hide_border=true"></code>
 
 
