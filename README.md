@@ -19,14 +19,13 @@ I am completely passionate about Tech Stack, I've studied programming field for 
 <code><img height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/768px-Tailwind_CSS_Logo.svg.png"></code>
 <code><img height="60" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/288_Sass-512.png"></code>
 <code><img height="60" src="https://icon-library.com/images/html5-icon/html5-icon-13.jpg"></code>
-<code><img height="60" src="https://cdn.freelogovectors.net/wp-content/uploads/2020/04/css-3-logo.png"></code>
+<code><img height="60" src="https://cdn.freebiesupply.com/logos/thumbs/2x/css3-logo.png"></code>
 
 
 ### Back End
 <code><img height="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
 <code><img height="64" src="https://spyna.it/images/graphql.png"></code>
 <code><img height="70" src="https://2.bp.blogspot.com/-bGTsFydT5d8/WM-Gs0K0FTI/AAAAAAAAFpM/AGJ-DWijk785bQjk9FF99PpcySIrtWHIgCPcB/s1600/laravel_logo.png"></code>
-<code><img height="70" src="https://miro.medium.com/max/724/1*qHErF6dRKxFCDTtgpQk9hQ.png"></code>
 
 ### Database
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
@@ -41,7 +40,6 @@ I am completely passionate about Tech Stack, I've studied programming field for 
 
 <code><img height="55" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="55" src="https://cdn.iconscout.com/icon/free/png-256/typescript-1174965.png"></code>
-<code><img height="55" src="https://hand-picked.io/wp-content/uploads/2019/05/logo_python2.png"></code>
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png"></code>
 
 
