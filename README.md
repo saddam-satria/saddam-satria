@@ -5,7 +5,7 @@
 
 
 <p>I am Saddam Satria Ardhi, you could call me Saddam, I am 20 years old, currently studying at university of Bina Sarana Informatika (BSI) as a information system student.
-I am completely passionate about Tech Stack, I've studied programming field for 2 years. </p>
+I am completely passionate about Tech Stack, I've studied programming field for 3 years. </p>
 
 💾My resume: <code><a href="https://drive.google.com/file/d/1VnOdaCXf1iR_sEjMhAQIY8LRlrUv8glM/view">CV</a></code>
 #
@@ -14,7 +14,6 @@ I am completely passionate about Tech Stack, I've studied programming field for 
 
  ### Front End
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="60" src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"></code>
 <code><img height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/768px-Tailwind_CSS_Logo.svg.png"></code>
 <code><img height="60" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/288_Sass-512.png"></code>
@@ -29,7 +28,6 @@ I am completely passionate about Tech Stack, I've studied programming field for 
 
 ### Database
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
-<code><img height="70" src="https://sekolahlinux.com/wp-content/uploads/2016/04/0B33Jt3ad_zj9YlR6RDhtdjFyVDQ.png"></code>
 
 ### Tools 
 <code><img height="60" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
@@ -39,18 +37,15 @@ I am completely passionate about Tech Stack, I've studied programming field for 
 
 ### Languages
 
-
 <code><img height="55" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="55" src="https://cdn.iconscout.com/icon/free/png-256/typescript-1174965.png"></code>
-<code><img height="60" src="https://logos-world.net/wp-content/uploads/2021/10/Python-Symbol.png"></code>
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png"></code>
-
 
 <code><img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saddam-satria&exclude_repo=demo_1,finalproject-daspro,school-system&hide=css,blade&layout=compact "></code>
 <code><img height="120" src="https://github-readme-stats.vercel.app/api?username=saddam-satria&layout=compact&show_icons=true&theme=default&hide_border=true"></code>
 
 
-#
+# 
 - 💬 Ask me about programming in general, I am always <br> available to help and learn together.
 - ❤️ Interesting : Front End Development, Back End Development
 
