@@ -3,6 +3,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://instagram.com/saddamsatria_12)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:karier.saddamsatria@gmail.com)
 
+Gitlab https://gitlab.com/saddam-satria
 
 <p>I am Saddam Satria Ardhi, you could call me Saddam, I am 20 years old, currently studying at university of Bina Sarana Informatika (BSI) as a information system student.
 I am completely passionate about Tech Stack, I've studied programming field for 3 years. </p>
