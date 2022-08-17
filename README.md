@@ -42,7 +42,8 @@ I am completely passionate about Tech Stack, I've studied programming field for 
 <code><img height="55" src="https://cdn.iconscout.com/icon/free/png-256/typescript-1174965.png"></code>
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png"></code>
 
-<code><img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saddam-satria&exclude_repo=demo_1,finalproject-daspro,school-system&hide=css,blade&layout=compact "></code>
+### GitHub stats
+<code><img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saddam-satria&hide=java,html,tex,blade,css&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff&langs_count=5"></code>
 <code><img height="120" src="https://github-readme-stats.vercel.app/api?username=saddam-satria&layout=compact&show_icons=true&theme=default&hide_border=true"></code>
 
 
