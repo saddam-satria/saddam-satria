@@ -44,7 +44,7 @@ I am completely passionate about Tech Stack, I've studied programming field for 
 
 ### GitHub stats
 <code><img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saddam-satria&hide=java,html,tex,blade,css&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff&langs_count=5"></code>
-<code><img height="120" src="https://github-readme-stats.vercel.app/api?username=saddam-satria&layout=compact&show_icons=true&theme=default&hide_border=true"></code>
+<code><img height="120" src="https://github-readme-stats.vercel.app/api?username=saddam-satria&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=00000&icon_color=000000&bg_color=ffffff"></code>
 
 
 # 
