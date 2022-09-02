@@ -5,7 +5,7 @@
 
 Gitlab https://gitlab.com/saddam-satria
 
-<p>I am Saddam Satria Ardhi, you could call me Saddam, I am 20 years old, currently studying at university of Bina Sarana Informatika (BSI) as a information system student.
+<p>currently studying at university of Bina Sarana Informatika (BSI) as a information system student.
 I am completely passionate about Tech Stack, I've studied programming field for 3 years. </p>
 
 💾My resume: <code><a href="https://drive.google.com/file/d/1VnOdaCXf1iR_sEjMhAQIY8LRlrUv8glM/view">CV</a></code>
