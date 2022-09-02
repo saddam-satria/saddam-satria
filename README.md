@@ -8,7 +8,7 @@ Gitlab https://gitlab.com/saddam-satria
 <p>currently studying at university of Bina Sarana Informatika (BSI) as a information system student.
 I am completely passionate about Tech Stack, I've studied programming field for 2 years. </p>
 
-💾My resume: <code><a href="https://drive.google.com/file/d/1VnOdaCXf1iR_sEjMhAQIY8LRlrUv8glM/view">CV</a></code>
+💾My resume: <code><a href="https://drive.google.com/file/d/1wH0sLGqpTWCszQBLecnOBdquhQ1tRFiy/view">CV</a></code>
 #
 
 <img src= "https://i.pinimg.com/originals/3d/f0/bf/3df0bf305487fbfca17639acc181efab.gif"/>
