@@ -2,7 +2,11 @@
 
 ###
 
-<p align="left">Experienced react developer with 6 months of project-based experience, complemented by a 5-month internship at Jaklingko as backend developer, ex cloud computing cohort at Bangkit Academy, led by Google, member of top 20 funded teams by Bangkit Academy. Currently working at Medicify as co-founder and backend engineer and final year student at Bina Sarana Informatika. Seeking opportunities as a software engineer to leverage skills in react, node.js, go, and laravel. Eager to contribute to innovative projects and advance in the field of software engineering or related fields</p>
+<p align="left">Experienced react developer with 6 months of project-based experience, complemented by a 5-month internship at Jaklingko as backend developer, ex cloud computing cohort at Bangkit Academy, led by Google, member of top 20 funded teams by Bangkit Academy. Currently working at Medicify as co-founder and backend engineer and final year student at Bina Sarana Informatika. Seeking opportunities as a software engineer to leverage skills in react, node.js, go, and laravel. Eager to contribute to innovative projects and advance in the field of software engineering or related fields
+
+CV: <a href="https://drive.google.com/file/d/1s8KXVBv1ZpLwFdOYWJlkPXReDv6sYe-P/view?usp=drive_link">LINK</a>
+
+</p>
 
 ###
 
@@ -152,13 +156,4 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/saddam-satria/saddam-satria/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=5&username=@ardhisaddam1&theme=darcula" alt="Layout with last medium posts"  />
-</div>
-
 ###
