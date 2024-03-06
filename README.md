@@ -3,16 +3,11 @@
 ###
 
 <p align="left">Experienced react developer with 6 months of project-based experience, complemented by a 5-month internship at Jaklingko as backend developer, ex cloud computing cohort at Bangkit Academy, led by Google, member of top 20 funded teams by Bangkit Academy. Currently working at Medicify as co-founder and backend engineer and final year student at Bina Sarana Informatika. Seeking opportunities as a software engineer to leverage skills in react, node.js, go, and laravel. Eager to contribute to innovative projects and advance in the field of software engineering or related fields
-
-CV: <a href="https://drive.google.com/file/d/1s8KXVBv1ZpLwFdOYWJlkPXReDv6sYe-P/view?usp=drive_link">LINK</a>
-
 </p>
 
 ###
 
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/3d/f0/bf/3df0bf305487fbfca17639acc181efab.gif"  />
-</div>
+
 
 ###
 
@@ -147,8 +142,9 @@ CV: <a href="https://drive.google.com/file/d/1s8KXVBv1ZpLwFdOYWJlkPXReDv6sYe-P/v
 </div>
 
 ###
-
-
-###
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saddam-satria&layout=compact&hide=javascript,css,html,blade&langs_count=8"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=saddam-satria&show_icons=true&theme=tokyonight"/>
+</div>
 
 <br clear="both">
