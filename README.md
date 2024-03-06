@@ -25,7 +25,7 @@
 
 ###
 
-<h4 align="left">Recently Learning</h4>
+<h2 align="left">Recently Learning</h2>
 
 ###
 
@@ -41,7 +41,7 @@
 
 ###
 
-<h4 align="left">Backend</h4>
+<h2 align="left">Backend</h2>
 
 ###
 
@@ -55,7 +55,7 @@
 
 ###
 
-<h4 align="left">Frontend</h4>
+<h2 align="left">Frontend</h2>
 
 ###
 
@@ -69,7 +69,7 @@
 
 ###
 
-<h4 align="left">Container</h4>
+<h2 align="left">Container</h2>
 
 ###
 
@@ -81,7 +81,7 @@
 
 ###
 
-<h4 align="left">Proxy / Ingress</h4>
+<h2 align="left">Proxy / Ingress</h2>
 
 ###
 
@@ -91,7 +91,7 @@
 
 ###
 
-<h4 align="left">Database</h4>
+<h2 align="left">Database</h2>
 
 ###
 
@@ -105,7 +105,7 @@
 
 ###
 
-<h4 align="left">Programming</h4>
+<h2 align="left">Programming</h2>
 
 ###
 
@@ -119,7 +119,7 @@
 
 ###
 
-<h4 align="left">Message Broker</h4>
+<h2 align="left">Message Broker</h2>
 
 ###
 
@@ -131,7 +131,7 @@
 
 ###
 
-<h4 align="left">Git</h4>
+<h2 align="left">Git</h2>
 
 ###
 
