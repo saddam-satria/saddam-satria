@@ -147,4 +147,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=saddam-satria&show_icons=true&theme=tokyonight"/>
 </div>
 
+<img src="https://github-profile-trophy.vercel.app/?username=saddam-satria&theme=onedark"/>
+
 <br clear="both">
