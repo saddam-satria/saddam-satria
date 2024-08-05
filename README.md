@@ -32,8 +32,7 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=flutter" height="32" alt="flutter logo"  />
   <img width="4" />
-  <img src="https://skillicons.dev/icons?i=go" height="32" alt="go logo"  />
-  <img width="4" />
+ 
   <img src="https://skillicons.dev/icons?i=kotlin" height="32" alt="kotlin logo"  />
   <img width="4" />
   <img src="https://skillicons.dev/icons?i=pytorch" height="32" alt="pytorch logo"  />
@@ -48,6 +47,7 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=nestjs" height="32" alt="nestjs logo"  />
   <img width="4" />
+ 
   <img src="https://cdn.simpleicons.org/fastapi/009688" height="32" alt="fastapi logo"  />
   <img width="4" />
   <img src="https://skillicons.dev/icons?i=laravel" height="32" alt="laravel logo"  />
@@ -65,6 +65,9 @@
   <img src="https://skillicons.dev/icons?i=tailwind" height="32" alt="tailwindcss logo"  />
   <img width="4" />
   <img src="https://skillicons.dev/icons?i=angular" height="32" alt="angularjs logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=vue" height="32" alt="tailwindcss logo"  />
+  <img width="4" />
 </div>
 
 ###
@@ -115,6 +118,9 @@
   <img src="https://skillicons.dev/icons?i=py" height="32" alt="python logo"  />
   <img width="4" />
   <img src="https://skillicons.dev/icons?i=php" height="32" alt="php logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=go" height="32" alt="go logo"  />
+  <img width="4" />
 </div>
 
 ###
