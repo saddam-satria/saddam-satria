@@ -2,7 +2,11 @@
 
 ###
 
-<p align="left">Experienced react developer with 6 months of project-based experience, complemented by a 5-month internship at Jaklingko as backend developer, ex cloud computing cohort at Bangkit Academy, led by Google, member of top 20 funded teams by Bangkit Academy. Currently working at Medicify as co-founder and backend engineer and final year student at Bina Sarana Informatika. Seeking opportunities as a software engineer to leverage skills in react, node.js, go, and laravel. Eager to contribute to innovative projects and advance in the field of software engineering or related fields
+<p align="left"> 6 months experience as a freelance react developer, 5 months internship experience as a backend developer at PT Jaklingko Indonesia, joined Bangkit Academy program in 5 months as a cloud computing student and selected bangkit academy's incubation program in 5 months as a backend developer & CFO 
+
+Currently, I am working at PT Fungsitama Cipta Teknologi as a fullstack developer, seeking opportunities as a software engineer to leverage skills in react, node, go, laravel and Recently I am learning flutter for Android Development
+
+Eager to contribute to innovative projects and advance in the field of software engineer or related fields
 </p>
 
 ###
